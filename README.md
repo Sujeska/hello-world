@@ -1,2 +1,2 @@
 # hello-world
-This is test hello world project
+This is a test hello world project
